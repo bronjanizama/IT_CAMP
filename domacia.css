@@ -1,0 +1,25 @@
+table{
+    margin:auto;
+    margin-top:200;
+}
+th{
+    background-color: brown;
+    border-collapse: collapse;
+    padding: 10px;
+    margin: 0px;
+    text-align: left;
+    color: coral;
+}
+table,
+th,
+tr,
+td{
+    border-collapse: collapse;
+    padding: 20px;
+    font-family:"lUCIDA Console","Courier New", Courier, monospace;
+    } 
+td{
+        border-bottom: 1px solid lightcoral;
+        width: 100px; ;
+    }
+
