@@ -1,0 +1,16 @@
+.slicica { 
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+}
+.slika{
+    width: 10px;
+    height: 10px;
+}
+i:hover{
+    background-color: chartreuse;
+    transition: 0.9s;
+}
+.divic.hover{
+    border:2px solid write;
+}
